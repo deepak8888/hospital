@@ -1,0 +1,9 @@
+.center{
+color:red;
+text-align:center;
+text-decoration:underline;
+text-transform:uppercase;
+font-style:italic;
+background-color:skyblue;
+background-image:url("images.jpg");
+text-size:30px;}
